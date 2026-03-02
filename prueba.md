@@ -1,0 +1,17 @@
+---
+title: "Prueba"
+author: "Diego Mayorga"
+date: "2026-03-02"
+output: 
+  html_document: 
+    keep_md: true
+---
+
+``` r
+#Hola qué tal???
+2+2
+```
+
+```
+## [1] 4
+```
