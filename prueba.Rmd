@@ -8,4 +8,5 @@ output:
 ---
 ```{r}
 #Hola qué tal?
+2+2
 ```
